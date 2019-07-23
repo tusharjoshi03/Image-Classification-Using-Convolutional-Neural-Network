@@ -1,4 +1,4 @@
-# Image Classification Using Convolutional Neural Network
+# Street View House Number Image Classification Using CNN
 
 This project aims to classify images from Google's SVHN dataset into ten different classes of numbers (0-9) in order to identify house numbers from the given input images.
 
